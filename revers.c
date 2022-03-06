@@ -4,7 +4,7 @@
 int main()
 {   
     int number;
-    printf("Введи число, не рекомендую вводить больше 100, уёба:\n");
+    printf("Введи число, не рекомендую вводить больше 100:\n");
     scanf("%d", &number);
     int workNumber = number;
     int remainders[100];
